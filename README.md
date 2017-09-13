@@ -14,5 +14,5 @@ chmod 777 sdk.sh
 
 or
 ```bash
-wget wget https://raw.githubusercontent.com/LuckyRepo/gappsbuilder/master/prep.sh && wget https://raw.githubusercontent.com/LuckyRepo/gappsbuilder/master/sdk.sh && chmod 777 sdk.sh && chmod 777 prep.sh && clear && ./prep.sh
+wget https://raw.githubusercontent.com/LuckyRepo/gappsbuilder/master/prep.sh && wget https://raw.githubusercontent.com/LuckyRepo/gappsbuilder/master/sdk.sh && chmod 777 sdk.sh && chmod 777 prep.sh && clear && ./prep.sh
 ```
